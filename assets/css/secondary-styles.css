@@ -18,7 +18,7 @@
 .secondary-content {
     width: 80%;
     margin: auto;
-    color: #024e76;
+    color: var (--secondary-color);
 }
 
 .secondary-content h3 {
